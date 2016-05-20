@@ -26,33 +26,33 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   rssyid
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
+google:
+  plus:+RasyidAhyarDalimunthe
   #analytics:
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github:             username
+email: rasyid.dalimunthe@gmail.com
+twitter:            rssyid
+facebook:           rasyid.ahyar
+github:             dalimunthe
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          rssyid
 #xing:              username
-instagram:          username
-#lastfm:            username
+instagram:          rssyid
+lastfm:            earbutt
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-steam:              username
+steam:              asnaeb_one
 #dribbble:          username
-#youtube:           username
-#soundcloud:        username
+youtube:           rotttenone
+soundcloud:        rasyid-ahyar
 #weibo:             username
 #flickr:            username
 #codepen:           username
