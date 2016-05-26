@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Leaflet.js is interesting"
+title:  "leaflet js part zero"
 date:   2016-05-26
 excerpt: "leaflet.js is an open-source JavaScript library for mobile-friendly interactive maps"
 tag:
