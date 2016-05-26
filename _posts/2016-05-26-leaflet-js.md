@@ -11,12 +11,14 @@ tag:
 comments: true
 ---
 
-#Leaflet as weapon
+# Leaflet as weapon
 
 Beberapa tahun yang lalu saat sedang berselancar ria di *internet* saya menemukan sebuah keajaiban dalam web mapping yang pada saat itu *framework/Library* yang banyak beradar adalah pmapper, mapserver, arcGIS Server dengan *SDK*nya (saat itu saya belum memiliki akses untuk arcGIS Server. Hingga akhirnya berjumpalah engan **leafletjs**. Mungkin banyak yang berpikir bahwa **leafletjs** belum memiliki kemampuan seperti **openlayers**, **arcGIS Javascript SDK** dan sebangsanya, mungkin saya mencoba mengeksplorasi kemampuan dari **leafletjs** untuk webGIS atau web Mapping *or anything you name it*. 
 
 Untuk perkenalan jelas di awali dari bagai manacara menampilkan peta di browser. 
 
+## step by step
+* download terlebih dulu library <a href="http://leafletjs.com/download.html"><b>leafletjs</b></a>
 
 {% highlight javascript %}
 var map = L.map('map').setView([51.505, -0.09], 13);
