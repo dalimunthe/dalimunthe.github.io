@@ -22,7 +22,7 @@ Untuk perkenalan jelas di awali dari bagai manacara menampilkan peta di browser.
 * Siapkan Folder untuk *project*  ex: `webmap`, extract library leaflet kedalam sub folder `webmap` --> `leaflet` nantinya didalam folder `leaflet` terdapat folder `images`, `leaflet.css`, `leaflet.js` dan `leaflet-src.js`.
 * Pada folder `webmap` buat file `index.html`, dikarenakan pada uji coba ini tidak menggunakan php atau serverside processing jadi bebas untuk menggunakan server baik itu apache atau iis atau sama sekali tanpa server.
 * Buka file `index.html` dengan text editor dan mulailah dengan skeleton untuk html
-{% highlight html %}
+*{% highlight html %}
 <!DOCTYPE html>
 <html>
   <head>
