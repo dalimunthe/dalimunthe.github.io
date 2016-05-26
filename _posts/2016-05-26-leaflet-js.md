@@ -18,7 +18,8 @@ Beberapa tahun yang lalu saat sedang berselancar ria di *internet* saya menemuka
 Untuk perkenalan jelas di awali dari bagai manacara menampilkan peta di browser. 
 
 ## step by step
-* download terlebih dulu library <a href="http://leafletjs.com/download.html"><b>leafletjs</b></a>
+* Download terlebih dulu library <a href="http://leafletjs.com/download.html"><b>leafletjs</b></a>
+* Siapkan Folder untuk *project*  ex: `webmap`, extract library leaflet kedalam sub folder `webmap` --> `leaflet` nantinya didalam folder `leaflet` terdapat folder `images`, `leaflet.css`, `leaflet.js` dan `leaflet-src.js`
 
 {% highlight javascript %}
 var map = L.map('map').setView([51.505, -0.09], 13);
