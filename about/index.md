@@ -20,6 +20,7 @@ date: 2016-05-26
 
 
 > “But I couldn't stop there. The call of adventure was much stronger and more inviting.” 
+
 ― Pramoedya Ananta Toer, The Mute's Soliloquy: A Memoir
 
 ## Preview
