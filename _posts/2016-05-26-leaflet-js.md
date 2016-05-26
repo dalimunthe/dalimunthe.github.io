@@ -27,19 +27,18 @@ Untuk perkenalan jelas di awali dari bagai manacara menampilkan peta di browser.
 <html>
   <head>
     <meta charset="utf-8">
-    <meta name="description" content="">
-    <meta name="keywords" content="">
-    <meta name="author" content="">
-    <title></title>
-    <link href="style.css" rel="stylesheet" type="text/css">
+    <meta name="description" content="basic web mapping with leaflet js">
+    <meta name="keywords" content="web,map,leaflet">
+    <meta name="author" content="rasyid">
+    <title>Leaflet Web Map</title>
+    <link href="leaflet/leaflet.css" rel="stylesheet" type="text/css">
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="script.js"></script>
   </head>
   <body>
-  
+    <div id="mapid" style="width: 600px; height: 400px"></div>
+    <script src="leaflet/leaflet.js"></script>
   </body>
 </html>
 {% endhighlight %}
