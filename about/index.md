@@ -1,23 +1,26 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+tags: [about, personal]
+date: 2016-05-26
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>Hello my name is <a href="http://dalimunthe.github.io"><b>Rasyid</b></a>, and i do something i don't know.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## what i'm doing here
+* some html
+* some css
+* some js
+* some php
+* some GIS
+* some text
+* text again
+* and something i don't know
+* and of course someting i interested in
+
+
+> “But I couldn't stop there. The call of adventure was much stronger and more inviting.” 
+― Pramoedya Ananta Toer, The Mute's Soliloquy: A Memoir
 
 ## Preview
 
